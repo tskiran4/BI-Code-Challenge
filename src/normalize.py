@@ -2,10 +2,7 @@ import pandas as pd
 
 # Convert numberic values to float
 def safe_convert_to_float(value):
-    """
-    Safely converts a value to float, handling potential errors.
-    Returns 0.0 if the value is empty or cannot be converted.
-    """
+   
     if pd.isna(value):
         return 0.0
     try:
@@ -13,15 +10,9 @@ def safe_convert_to_float(value):
     except (ValueError, TypeError):
         return 0.0
     
-   # Normalize numberic values and dates 
+# Normalize numberic values and dates 
 def normalize_data(aggregated_df):
-    """
-    Normalize and combine two DataFrames by renaming columns and aligning structures.
-    :param broker_1_df: DataFrame from broker 1.
-    :param broker_2_df: DataFrame from broker 2.
-    :return: Combined normalized DataFrame.
-    """
-   
+
     # Normalize numeric fields
     numeric_columns = [ 'Coverage Amount', 'Admin Charges', 'Broker Fee',
                      'Tax Amount', 'Coverage Cost', 'Contract Fee' ]
