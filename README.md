@@ -21,6 +21,8 @@ Steps
 
 Requirements
 Python 3.X
+Pandas
+Pytest
 
 
 How to Run:
