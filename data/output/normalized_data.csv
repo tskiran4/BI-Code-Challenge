@@ -1,0 +1,62 @@
+Policy Reference,Coverage Amount,Start Date,End Date,Admin Charges,Company Description,Contract Event,Consumer Category,Consumer ID,Broker Fee,Activation Date,Insurance Company Ref,Tax Amount,Coverage Cost,Contract Fee,Contract Category,Underwriter,Insurance Plan,NextRenewalDate,Primary Policy Ref,Broker
+POL001,1000000.0,2023-01-15,2024-01-15,100.0,Business ABC,New Business,Corporate,CR001,0.15,2023-01-15,IPN001,150.0,8000.0,50.0,Property,ABC Insurance,Property Insurance,15/01/2024,RP001,broker_1
+POL002,750000.0,2023-02-10,2024-02-10,75.0,Business XYZ,Renewal,Individual,CR002,0.12,2023-02-10,IPN002,100.0,6000.0,30.0,Auto,XYZ Insurers,Auto Coverage,10/02/2024,RP002,broker_1
+POL003,500000.0,2023-03-20,2024-03-20,50.0,Business PQR,Policy Renewal,Corporate,CR003,0.1,2023-03-20,IPN003,75.0,4000.0,25.0,Health,PQR Underwriters,Health Insurance,20/03/2024,RP003,broker_1
+POL004,800000.0,2023-04-15,2024-04-15,80.0,Business LMN,New Business,Individual,CR004,0.18,2023-04-15,IPN004,120.0,9000.0,60.0,Property,LMN Insurance,Property Insurance,15/04/2024,RP004,broker_1
+POL005,600000.0,2023-05-12,2024-05-12,60.0,Business XYZ,Policy Renewal,Corporate,CR005,0.14,2023-05-12,IPN005,90.0,7000.0,40.0,Auto,XYZ Insurers,Auto Coverage,12/05/2024,RP005,broker_1
+POL006,900000.0,2023-06-18,2024-06-18,90.0,Business ABC,Renewal,Individual,CR006,0.2,2023-06-18,IPN006,135.0,10000.0,70.0,Health,ABC Insurance,Health Insurance,18/06/2024,RP006,broker_1
+POL007,1200000.0,2023-07-25,2024-07-25,120.0,Business XYZ,New Business,Corporate,CR007,0.25,2023-07-25,IPN007,180.0,13000.0,100.0,Property,XYZ Insurers,Property Insurance,25/07/2024,RP007,broker_1
+POL008,450000.0,2023-08-30,2024-08-30,45.0,Business PQR,Policy Renewal,Individual,CR008,0.08,2023-08-30,IPN008,67.5,3500.0,15.0,Auto,PQR Underwriters,Auto Coverage,30/08/2024,RP008,broker_1
+POL009,1100000.0,2023-09-19,2024-09-19,110.0,Business LMN,Renewal,Corporate,CR009,0.22,2023-09-19,IPN009,165.0,9500.0,90.0,Health,LMN Insurance,Health Insurance,19/09/2024,RP009,broker_1
+POL010,680000.0,2023-10-24,2024-10-24,68.0,Business ABC,New Business,Individual,CR010,0.13,2023-10-24,IPN010,102.0,7200.0,34.0,Property,ABC Insurance,Property Insurance,24/10/2024,RP010,broker_1
+POL011,570000.0,2023-11-09,2024-11-09,57.0,Business XYZ,Policy Renewal,Corporate,CR011,0.09,2023-11-09,IPN011,85.5,5300.0,21.0,Auto,XYZ Insurers,Auto Coverage,09/11/2024,RP011,broker_1
+POL012,930000.0,2023-12-14,2024-12-14,93.0,Business PQR,Renewal,Individual,CR012,0.19,2023-12-14,IPN012,139.5,8800.0,76.0,Health,PQR Underwriters,Health Insurance,14/12/2024,RP012,broker_1
+POL013,770000.0,2024-01-21,2025-01-21,77.0,Business LMN,New Business,Corporate,CR013,0.16,2024-01-21,IPN013,115.5,6700.0,45.0,Property,LMN Insurance,Property Insurance,21/01/2025,RP013,broker_1
+POL014,520000.0,2024-02-05,2025-02-05,52.0,Business ABC,Policy Renewal,Individual,CR014,0.11,2024-02-05,IPN014,78.0,4600.0,29.0,Auto,ABC Insurance,Auto Coverage,05/02/2025,RP014,broker_1
+POL015,880000.0,2024-03-11,2025-03-11,88.0,Business XYZ,Renewal,Corporate,CR015,0.21,2024-03-11,IPN015,132.0,8100.0,65.0,Health,XYZ Insurers,Health Insurance,11/03/2025,RP015,broker_1
+POL016,430000.0,2024-04-18,2025-04-18,43.0,Business PQR,New Business,Individual,CR016,0.07,2024-04-18,IPN016,64.5,3200.0,12.0,Property,PQR Underwriters,Property Insurance,18/04/2025,RP016,broker_1
+POL017,1050000.0,2024-05-23,2025-05-23,105.0,Business LMN,Policy Renewal,Corporate,CR017,0.23,2024-05-23,IPN017,157.5,9200.0,80.0,Auto,LMN Insurance,Auto Coverage,23/05/2025,RP017,broker_1
+POL018,720000.0,2024-06-29,2025-06-29,72.0,Business ABC,Renewal,Individual,CR018,0.17,2024-06-29,IPN018,108.0,6700.0,54.0,Health,ABC Insurance,Health Insurance,29/06/2025,RP018,broker_1
+POL019,590000.0,2024-07-17,2025-07-17,59.0,Business XYZ,New Business,Corporate,CR019,0.12,2024-07-17,IPN019,88.5,5000.0,27.0,Property,XYZ Insurers,Property Insurance,17/07/2025,RP019,broker_1
+POL020,970000.0,2024-08-22,2025-08-22,97.0,Business PQR,Policy Renewal,Individual,CR008,0.2,2024-08-22,IPN020,145.5,7600.0,71.0,Auto,PQR Underwriters,Auto Coverage,22/08/2025,RP020,broker_1
+POL021,1100000.0,2024-09-28,2025-09-28,110.0,Business LMN,New Business,Corporate,CR021,0.15,2024-09-28,IPN021,165.0,9500.0,50.0,Property,LMN Insurance,Property Insurance,28/09/2025,RP021,broker_1
+POL022,630000.0,2024-10-14,2025-10-14,63.0,Business XYZ,Policy Renewal,Individual,CR022,0.1,2024-10-14,IPN022,94.5,5500.0,30.0,Auto,XYZ Insurers,Auto Coverage,14/10/2025,RP022,broker_1
+POL023,880000.0,2024-11-20,2025-11-20,88.0,Business PQR,Renewal,Corporate,CR023,0.18,2024-11-20,IPN023,132.0,8000.0,70.0,Health,PQR Underwriters,Health Insurance,20/11/2025,RP023,broker_1
+POL024,480000.0,2024-12-10,2025-12-10,48.0,Business ABC,New Business,Individual,CR024,0.08,2024-12-10,IPN024,72.0,4000.0,20.0,Property,ABC Insurance,Property Insurance,10/12/2025,RP024,broker_1
+POL025,990000.0,2025-01-05,2026-01-05,99.0,Business XYZ,Policy Renewal,Corporate,CR025,0.16,2025-01-05,IPN025,148.5,8700.0,60.0,Auto,XYZ Insurers,Auto Coverage,05/01/2026,RP025,broker_1
+POL026,720000.0,Unknown,2024-02-09,72.0,Business PQR,Renewal,Individual,CR026,0.12,2025-02-09,IPN026,108.0,6400.0,40.0,Health,PQR Underwriters,Health Insurance,09/02/2026,RP026,broker_1
+POL027,530000.0,2025-03-16,2026-03-16,53.0,Business LMN,New Business,Corporate,CR027,0.09,2025-03-16,IPN027,79.5,4600.0,25.0,Property,LMN Insurance,Property Insurance,16/03/2026,RP027,broker_1
+POL028,1180000.0,2025-04-21,2026-04-21,118.0,Business ABC,Policy Renewal,Individual,CR028,0.2,2025-04-21,IPN028,177.0,10400.0,90.0,Auto,ABC Insurance,Auto Coverage,21/04/2026,RP028,broker_1
+POL029,690000.0,2025-05-07,2026-05-07,69.0,Business XYZ,Renewal,Corporate,CR029,0.14,2025-05-07,IPN029,103.5,6000.0,35.0,Health,XYZ Insurers,Health Insurance,07/05/2026,RP029,broker_1
+POL030,560000.0,2025-06-12,2026-06-12,56.0,Business PQR,New Business,Individual,CR030,0.11,2025-06-12,IPN030,84.0,4800.0,28.0,Property,PQR Underwriters,Property Insurance,12/06/2026,RP030,broker_1
+POL031,920000.0,2025-07-19,2026-07-19,92.0,Business LMN,Policy Renewal,Corporate,CR031,0.17,2025-07-19,IPN031,138.0,8000.0,75.0,Auto,LMN Insurance,Auto Coverage,19/07/2026,RP031,broker_1
+POL032,480000.0,2025-08-25,2026-08-25,48.0,Business ABC,Renewal,Individual,CR029,0.13,2025-08-25,IPN032,72.0,4300.0,22.0,Health,ABC Insurance,Health Insurance,25/08/2026,RP032,broker_1
+POL033,1050000.0,2025-09-30,2026-09-30,105.0,Business XYZ,New Business,Corporate,CR033,0.19,2025-09-30,IPN033,157.5,9000.0,80.0,Property,XYZ Insurers,Property Insurance,30/09/2026,RP033,broker_1
+POL034,780000.0,2025-10-16,2026-10-16,78.0,Business PQR,Policy Renewal,Individual,CR034,0.15,2025-10-16,IPN034,117.0,6800.0,50.0,Auto,PQR Underwriters,Auto Coverage,16/10/2026,RP034,broker_1
+POL035,510000.0,2025-11-22,2026-11-22,51.0,Business LMN,Renewal,Corporate,CR029,0.1,2025-11-22,IPN035,76.5,4500.0,26.0,Health,LMN Insurance,Health Insurance,22/11/2026,RP035,broker_1
+POL036,850000.0,2025-12-08,2026-12-08,85.0,Business ABC,New Business,Individual,CR036,0.18,2025-12-08,IPN036,127.5,7500.0,65.0,Property,ABC Insurance,Property Insurance,08/12/2026,RP036,broker_1
+POL037,660000.0,2026-01-14,2027-01-14,66.0,Business XYZ,Policy Renewal,Corporate,CR037,0.16,2026-01-14,IPN037,99.0,5800.0,42.0,Auto,XYZ Insurers,Auto Coverage,14/01/2027,RP037,broker_1
+POL038,890000.0,2026-02-19,2027-02-19,89.0,Business PQR,Renewal,Individual,CR038,0.12,2026-02-19,IPN038,133.5,7800.0,70.0,Health,PQR Underwriters,Health Insurance,19/02/2027,RP038,broker_1
+POL039,440000.0,2026-03-26,2027-03-26,44.0,Business LMN,New Business,Corporate,CR039,0.09,2026-03-26,IPN039,66.0,3900.0,18.0,Property,LMN Insurance,Property Insurance,26/03/2027,RP039,broker_1
+POL040,1160000.0,2026-04-30,2027-04-30,116.0,Business ABC,Policy Renewal,Individual,CR040,0.2,2026-04-30,IPN040,174.0,10200.0,85.0,Auto,ABC Insurance,Auto Coverage,30/04/2027,RP040,broker_1
+POL040,550000.0,2026-03-20,2027-03-20,55.0,Business DEF,Policy Initiation,Corporate,CID01,0.09,2026-03-20,IPN040,82.5,5100.0,28.0,Auto,DEF Insurers,Auto Protection,20/03/2027,RP040,broker_2
+POL041,940000.0,2026-04-24,2027-04-24,94.0,Business GHI,Policy Update,Individual,CID01,0.17,2026-04-24,IPN041,141.0,8300.0,72.0,Health,GHI Underwriters,Health Protection,24/04/2027,RP041,broker_2
+POL042,1100000.0,2026-05-18,2027-05-18,110.0,Business JKL,Contract Renewal,Corporate,CID01,0.19,2026-05-18,IPN042,165.0,9800.0,90.0,Property,JKL Insurance,Property Coverage,18/05/2027,RP042,broker_2
+POL043,710000.0,2026-06-23,2027-06-23,71.0,Business MNO,New Contract,Individual,CID02,0.11,2026-06-23,IPN043,106.5,6600.0,38.0,Auto,MNO Insurers,Auto Protection,23/06/2027,RP043,broker_2
+POL044,650000.0,2026-07-29,2027-07-29,65.0,Business PQRS,Policy Update,Corporate,CID02,0.13,2026-07-29,IPN044,97.5,6000.0,50.0,Health,PQRS Underwriters,Health Protection,29/07/2027,RP044,broker_2
+POL045,1020000.0,2026-08-20,2027-08-20,102.0,Business TUV,Contract Renewal,Individual,CID02,0.2,2026-08-20,IPN045,153.0,9100.0,85.0,Property,TUV Insurance,Property Coverage,20/08/2027,RP045,broker_2
+POL046,490000.0,2026-09-12,2027-09-12,49.0,Business WXY,New Contract,Corporate,CID03,0.08,2026-09-12,IPN046,73.5,4500.0,25.0,Auto,WXY Insurers,Auto Protection,12/09/2027,RP046,broker_2
+REF053,750000.0,2027-05-01,2028-05-01,77.0,Enterprise A1B,Contract Renewal,Corporate,CID03,0.15,2027-05-01,ICR053,115.0,6600.0,39.0,Auto,A1B Underwriters,Vehicle Shield,01/05/2028,PPR053,broker_2
+REF054,625000.0,2027-06-03,2028-06-03,63.0,Enterprise B2C,New Contract,Individual,CID03,0.12,2027-06-03,ICR054,93.75,5400.0,34.0,Property,B2C Underwriters,Home Secure,03/06/2028,PPR054,broker_2
+REF055,820000.0,2027-07-10,2028-07-10,82.0,Enterprise C3D,Contract Renewal,Corporate,CID055,0.18,2027-07-10,ICR055,123.0,7100.0,43.0,Health,C3D Underwriters,Life Care,10/07/2028,PPR055,broker_2
+REF056,550500.0,2027-08-15,2028-08-15,55.0,Enterprise D4E,New Contract,Individual,CID056,0.11,2027-08-15,ICR056,82.58,4800.0,30.0,Auto,D4E Underwriters,Vehicle Shield,15/08/2028,PPR056,broker_2
+REF072,865000.0,2022-09-20,2023-09-20,87.0,Enterprise S9T,New Contract,Corporate,CID072,0.19,2022-09-20,ICR072,129.75,7600.0,46.0,Auto,S9T Underwriters,Vehicle Secure,20/09/2023,PPR072,broker_2
+REF073,655000.0,2022-10-15,2023-10-15,66.0,Enterprise T0U,Contract Renewal,Individual,CID073,0.14,2022-10-15,ICR073,98.25,5700.0,35.0,Property,T0U Underwriters,Home Protect,15/10/2023,PPR073,broker_2
+REF074,840500.0,2022-11-10,2023-11-10,84.0,Enterprise U1V,New Contract,Corporate,CID074,0.2,2022-11-10,ICR074,126.08,7400.0,45.0,Health,U1V Underwriters,Life Secure,10/11/2023,PPR074,broker_2
+REF075,580500.0,2022-12-05,2023-12-05,58.0,Enterprise V2W,Contract Renewal,Individual,CID075,0.15,2022-12-05,ICR075,87.08,5100.0,32.0,Auto,V2W Underwriters,Vehicle Secure,05/12/2023,PPR075,broker_2
+REF076,965000.0,2023-01-18,2024-01-18,97.0,Enterprise W3X,New Contract,Corporate,CID076,0.21,2023-01-18,ICR076,144.75,8500.0,51.0,Property,W3X Underwriters,Home Protect,18/01/2024,PPR076,broker_2
+REF077,705000.0,2023-02-20,2024-02-20,71.0,Enterprise X4Y,Contract Renewal,Individual,CID077,0.16,2023-02-20,ICR077,105.75,0.0,38.0,Health,X4Y Underwriters,Life Secure,20/02/2024,PPR077,broker_2
+REF078,815000.0,2023-03-25,2024-03-25,82.0,Enterprise Y5Z,New Contract,Corporate,CID078,0.18,2023-03-25,ICR078,122.25,7100.0,44.0,Auto,Y5Z Underwriters,Vehicle Secure,25/03/2024,PPR078,broker_2
+REF079,645000.0,2023-04-10,2024-04-10,65.0,Enterprise Z6A,Contract Renewal,Individual,CID079,0.15,2023-04-10,ICR079,96.75,5600.0,36.0,Property,Z6A Underwriters,Home Protect,10/04/2024,PPR079,broker_2
+REF080,855500.0,2023-05-05,2024-05-05,86.0,Enterprise A7B,New Contract,Corporate,CID080,0.19,2023-05-05,ICR080,128.33,7500.0,47.0,Health,A7B Underwriters,Life Secure,05/05/2024,PPR080,broker_2
+REF081,595000.0,2023-06-15,2024-06-15,60.0,Enterprise B8C,Contract Renewal,Individual,CID081,0.16,2023-06-15,ICR081,89.25,5200.0,33.0,Auto,B8C Underwriters,Vehicle Secure,15/06/2024,PPR081,broker_2
